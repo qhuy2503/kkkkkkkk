@@ -12,3 +12,4 @@ const CONFIG = {
     mess: 'anh thương em lắm ớ ><',
     messDesc: 'thật sự thương nhiều lắm',
     btnAccept: 'dạ <3'.
+}
